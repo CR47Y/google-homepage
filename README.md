@@ -1,1 +1,1 @@
-# google-homepage
+First Odin project. Inspect Google Homepage with Chrom dev tools and replicate it with HTML and CSS.
