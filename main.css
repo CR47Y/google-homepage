@@ -1,0 +1,43 @@
+.header {
+    font-size: 13px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+li {
+    display: inline;
+}
+
+.logo {
+     padding: 150px 0px 25px 500px;
+}
+
+.searchbar {
+    padding: 0px 0px 0px 350px;
+}
+
+.input {
+    height: 50px;
+    width: 550px;
+    border-width: 1px;
+    border-color: lightgrey; 
+    border-radius: 25px;
+}
+
+.buttons {
+    padding: 25px 0px 0px 530px;
+}
+
+p {
+    padding: 25px 0px 120px 530px;
+}
+
+.footer {
+    font-size: 15px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
